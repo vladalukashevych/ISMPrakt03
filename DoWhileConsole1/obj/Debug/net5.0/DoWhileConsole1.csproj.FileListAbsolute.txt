@@ -1,0 +1,15 @@
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.exe
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.deps.json
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.runtimeconfig.json
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.runtimeconfig.dev.json
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.dll
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\ref\DoWhileConsole1.dll
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.pdb
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.AssemblyInfoInputs.cache
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.AssemblyInfo.cs
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.dll
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\ref\DoWhileConsole1.dll
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.pdb
+C:\Users\Vlada\source\repos\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.genruntimeconfig.cache

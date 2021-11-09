@@ -1,0 +1,16 @@
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.exe
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.deps.json
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.runtimeconfig.json
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.runtimeconfig.dev.json
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.dll
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ref\ForConsole5.dll
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.pdb
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.csproj.AssemblyReference.cache
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.AssemblyInfoInputs.cache
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.AssemblyInfo.cs
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.dll
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ref\ForConsole5.dll
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.pdb
+C:\Users\Vlada\source\repos\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.genruntimeconfig.cache
