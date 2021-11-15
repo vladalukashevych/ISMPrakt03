@@ -11,7 +11,7 @@ namespace ForConsole1
             int a = Int32.Parse(Console.ReadLine());
             Console.Write("b = ");
             int b = Int32.Parse(Console.ReadLine());
-            while (a!>b)
+            while (a>=b)
             {
                 Console.WriteLine("The data entered is incorrect");
                 Console.WriteLine("Please, try again");
@@ -21,9 +21,9 @@ namespace ForConsole1
                 b = Int32.Parse(Console.ReadLine());
             }
             long prod = 1;
-            for(int i = a; i<=b; a++)
+            for(int i = a; i<=b; i++)
             {
-                prod *= a;
+                prod *= i;
             }
             Console.WriteLine($"The product is {prod}");
         }
